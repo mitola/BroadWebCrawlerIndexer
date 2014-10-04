@@ -151,5 +151,6 @@ public class MainDBClass {
         stat.executeUpdate("DROP TABLE IF EXISTS processed_links;");
         stat.executeUpdate("CREATE table processed_links (url TEXT UNIQUE, title);");
         stat.executeUpdate("CREATE table collected_links (url TEXT UNIQUE, title);");
+        stat.executeUpdate("INSERT OR IGNORE INTO collected_links VALUES('http://bttstudio.com', 'Dummy link');");
     }
   }
