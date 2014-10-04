@@ -5,8 +5,11 @@ A simple web crawler which parses through all the links on a website and is savi
 
 
 File: database/MainDBClass.java:
+
   -Contains Database interaction table creation 
+  
 File: webcrawler/WebCrawler.java:
+
   -Has a simple input menu with basic parsing functionality
   
 
