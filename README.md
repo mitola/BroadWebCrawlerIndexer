@@ -19,4 +19,6 @@ The code doesn't require any db installation since it uses sqllite.
 
 
 TODO:
+======================
 -Add calls to get page Title for all the new links with jsoup
+-Remove an error that happens with a small number of sites while parsing
