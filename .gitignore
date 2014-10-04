@@ -1,0 +1,32 @@
+# SQL DB #
+######################
+linkdatabase.db
+
+# Folders #
+######################
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# IDE files #
+#############
+nbproject
+build
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+composer.lock
+build.xml
+manifest.mf
+/dist/
